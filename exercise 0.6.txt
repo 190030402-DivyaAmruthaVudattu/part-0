@@ -1,0 +1,27 @@
+note over browser:
+user input the data int the text field 
+and then press the save button in the spa page. 
+end note
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+note left of server:
+the POST request to the address new_note_spa contains the
+new note as JSON-data containing both the content of the note.
+end note
+server-->browser: HTML status code 201 created
+note left of browser:
+the browser stays on the same page 
+and it sends no further HTTP requests.
+end note
+note right of server:
+the server does not ask for a redirect.
+end note
+note left of server:
+the command document getElementById instructs the code to fetch the form-element
+from the page and to register an event handler,to handle the form submit event.The 
+event handler immediately calls the method a preventDetails() to prevent the default
+handling of form submit.
+end note 
+note right of browser:
+the event handler creates a new notes list with the command notes push,
+the note list on the page and sends the new note to the server.
+end note

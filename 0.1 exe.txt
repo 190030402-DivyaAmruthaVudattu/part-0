@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Exercise 0.1</title>
+     <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <link href="0.1.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <h1>LVMH</h1>
+    <img src="louis-vuitton-cover.png" alt="The LVMH Logo">
+
+    <p>The latest news from Forbes</p>
+
+
+    <p>Less than a month after reaching the pinnacle of a $200 billion net worth for the third time in late April, 
+    Amazon founder Jeff Bezos can no longer claim to be the richest person in the world. He now has a neighbor at the top spot: French billionaire Bernard Arnault, the head of luxury goods group LVMH, 
+ended the day $800 million richer—with a net worth of $186 billion—after the company’s shares closed nearly half a percent higher in Europe. On the other side of the Atlantic, 
+    Amazon stock dropped by a little more than 1% on Friday, shaving $2.3 billion from Bezos’ net worth and placing both men at the $186 billion mark.</p>
+
+    <p>Read the <a href="https://www.forbes.com/sites/giacomotognini/2021/05/21/french-luxury-tycoon-bernard-arnault-is-now-tied-with-jeff-bezos-for-richest-person-in-the-world/?sh=5e014f252b91">New Leading Richest person of the World</a> to learn even more about the values and principles that guide the pursuit of our mission.</p>
+  </body>
+</html>
